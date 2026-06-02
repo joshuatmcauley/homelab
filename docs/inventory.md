@@ -1,1 +1,4 @@
-
+-tp link TLSG108S
+-Raspberry Pi 5 4Gb
+-esp32
+-BT wi-fi disk 
