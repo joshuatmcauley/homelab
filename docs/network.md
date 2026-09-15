@@ -2,11 +2,7 @@ Network:
 Flat home LAN. The TL-SG108S is unmanaged: no VLANs, no trunks, no ACLs on this switch. Everything on the switch is one broadcast domain.
 
 Path:
-BT Hub (router, DHCP, Wi-Fi, gateway 192.168.1.254)
-  → Wi-Fi → BT Smart Disk (extender)
-  → Ethernet → TL-SG108S
-  → Raspberry Pi 5
-  → Windows PC 
+BT Hub (router, DHCP, Wi-Fi, gateway 192.168.1.254) → Wi-Fi → BT Smart Disk 2 (extender) → Ethernet → TL-SG108S
 
 Pi also has a 1TB SSD on USB which acts as the primary storage
 
