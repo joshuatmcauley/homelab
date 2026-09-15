@@ -4,7 +4,7 @@ Personal homelab: Raspberry Pi 5, TP-Link TL-SG108S, ESP32 on a 3D-printed Labra
 [BT Hub] -> [BT Wi-fi disk] -> [TL-SG108S switch] -> [Raspberry pi 5] 
 
 
-![Rack](docs/rack-front.png)
+![Rack](docs/front.png)
 
-![Topology](docs/topology.png)
+![Topology](docs/Topology.png)
 
