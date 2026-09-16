@@ -1,3 +1,5 @@
-02/06/25-17:17-Installed Docker on Pi 5
-02/06/25-21:19-Installed and setup media server using Jellyfin, Prowlarr, qbittorrent, radarr, sonarr
+Changelog
 
+- 2026-09-15 — Documented topology, rack photo, switch ports 1–4, inventory, network.md
+- 2025-06-02 — Jellyfin, Prowlarr, qBittorrent, Radarr, Sonarr on the Pi
+- 2025-06-02 — Installed Docker on Pi 5
